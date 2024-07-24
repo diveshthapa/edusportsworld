@@ -1,5 +1,8 @@
 # edusportsworld
 E-commerce website for Sports accessories and shopping using wordpress and plugin.
+Do check : <br>
+- [x] Release section at right side for New Release!✅ and free download.
+
 
 <br>
 
